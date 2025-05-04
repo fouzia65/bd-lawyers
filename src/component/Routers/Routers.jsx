@@ -22,22 +22,22 @@ export  const router = createBrowserRouter(
         {
           index:true,
           path:'/',
-          loader:()=>fetch('../../../public/lawyer.json'),
+          loader:()=>fetch('/lawyer.json'),
           Component: Home
         },
         {
           path: '/myBooking',
-          loader:()=>fetch('../../../public/lawyer.json'),
+          loader:()=>fetch('/lawyer.json'),
           Component: MyBooking
         },
         {
           path:'/blogs',
-          loader:() => fetch('../../../public/blog.json'),
+          loader:() => fetch('/blog.json'),
           Component: Blogs
         },
         {
           path:'lawyerDetails/:id',
-          loader:()=>fetch('../../../public/lawyer.json'),
+          loader:()=>fetch('/lawyer.json'),
           Component:LawyerDetails
         }
       ]
