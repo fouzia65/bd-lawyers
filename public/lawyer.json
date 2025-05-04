@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "image": "https://st.depositphotos.com/70278896/61649/i/600/depositphotos_616491586-stock-photo-business-lawyer-woman-working-legal.jpg",
+      "experience": "15 years",
+      "expertise": "Intellectual Property",
+      "licence_number": "L123456789",
+      "availability": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "isAvailable": true,
+      "consultation_fee": "150"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "image": "https://st.depositphotos.com/1004713/2489/i/600/depositphotos_24894215-stock-photo-businesswoman.jpg",
+      "experience": "10 years",
+      "expertise": "Divorce",
+      "licence_number": "L987654321",
+      "availability": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "isAvailable": true,
+      "consultation_fee": "120"
+    },
+    {
+      "id": 3,
+      "name": "Richard Roe",
+      "image": "https://st3.depositphotos.com/1158045/37169/i/600/depositphotos_371696194-stock-photo-lawyer-portrait-his-office.jpg",
+      "experience": "8 years",
+      "expertise": "Criminal Defense",
+      "licence_number": "L112233445",
+      "availability": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+      "isAvailable": true,
+      "consultation_fee": "200"
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "image": "https://st.depositphotos.com/1010613/52934/i/600/depositphotos_529349914-stock-photo-young-african-american-attorney-lawyer.jpg",
+      "experience": "5 years",
+      "expertise": "Personal Injury",
+      "licence_number": "L223344556",
+      "availability": ["Tuesday", "Wednesday", "Thursday", "Friday"],
+      "isAvailable": true,
+      "consultation_fee": "100"
+    },
+    {
+      "id": 5,
+      "name": "Michael Johnson",
+      "image": "https://st4.depositphotos.com/1000975/38294/i/600/depositphotos_382947732-stock-photo-old-male-employee-and-excessive.jpg",
+      "experience": "12 years",
+      "expertise": "Estate Planning",
+      "licence_number": "L334455667",
+      "availability": ["Monday", "Tuesday", "Wednesday"],
+      "isAvailable": true,
+      "consultation_fee": "180"
+    },
+    {
+      "id": 6,
+      "name": "Linda Williams",
+      "image": "https://st5.depositphotos.com/16122460/69611/i/600/depositphotos_696111934-stock-photo-happy-woman-crossed-arms-office.jpg",
+      "experience": "20 years",
+      "expertise": "Real Estate",
+      "licence_number": "L445566778",
+      "availability": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "isAvailable": true,
+      "consultation_fee": "220"
+    },
+    {
+      "id": 7,
+      "name": "Paul Brown",
+      "image": "https://st3.depositphotos.com/4678277/18311/i/600/depositphotos_183117016-stock-photo-portrait-of-happy-smiling-cheerful.jpg",
+      "experience": "18 years",
+      "expertise": "Employment Law",
+      "licence_number": "L556677889",
+      "availability": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "isAvailable": true,
+      "consultation_fee": "140"
+    },
+    {
+      "id": 8,
+      "name": "Laura Green",
+      "image": "https://st4.depositphotos.com/1000975/24241/i/600/depositphotos_242410260-stock-photo-female-employee-with-too-much.jpg",
+      "experience": "7 years",
+      "expertise": "Immigration Law",
+      "licence_number": "L667788990",
+      "availability": ["Tuesday", "Wednesday", "Thursday", "Friday"],
+      "isAvailable": true,
+      "consultation_fee": "160"
+    },
+    {
+      "id": 9,
+      "name": "David White",
+      "image": "https://st2.depositphotos.com/4157265/44162/i/600/depositphotos_441629532-stock-photo-headshot-portrait-of-smiling-caucasian.jpg",
+      "experience": "14 years",
+      "expertise": "Bankruptcy Law",
+      "licence_number": "L778899001",
+      "availability": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "isAvailable": true,
+      "consultation_fee": "250"
+    },
+    {
+      "id": 10,
+      "name": "Sophia Black",
+      "image": "https://st5.depositphotos.com/16122460/69592/i/600/depositphotos_695928796-stock-photo-happy-woman-folder-office-space.jpg",
+      "experience": "9 years",
+      "expertise": "Contract Law",
+      "licence_number": "L889900112",
+      "availability": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "isAvailable": true,
+      "consultation_fee": "130"
+    }
+  ]
+  

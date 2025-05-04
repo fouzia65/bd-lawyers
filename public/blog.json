@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "question": "What is useState and how does it work in React?",
+      "answer": "useState is a hook that lets you add and manage state in functional components.",
+      "date": "2025-05-03"
+    },
+    {
+      "id": 2,
+      "question": "What is the purpose of useEffect in React?",
+      "answer": "useEffect runs side effects (e.g., data fetch, DOM updates) after render.",
+      "date": "2025-05-03"
+    },
+    {
+      "id": 3,
+      "question": "What is a custom hook in React and when should you use one?",
+      "answer": "A custom hook is a reusable function using hooks; use it to share logic.",
+      "date": "2025-05-03"
+    },
+    {
+      "id": 4,
+      "question": "Difference between controlled and uncontrolled components. Which one is better?",
+      "answer":  " Value managed by React state Value managed by the DOM via ref Controlled is better for validation and dynamic forms.",
+      "date": "2025-05-03"
+    },
+    {
+      "id": 5,
+      "question": "Tell us something about useFormStatus() in React.",
+      "answer": "useFormStatus tracks form submission state (e.g., pending) for UX feedback.",
+      "date": "2025-05-03"
+    }
+]
