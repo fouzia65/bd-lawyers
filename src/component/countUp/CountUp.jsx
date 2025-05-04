@@ -1,8 +1,8 @@
 import React from 'react';
-import img1 from '/assets/success-doctor.png'
-import img2 from '/assets/success-patients.png'
-import img3 from '/assets/success-review.png'
-import img4 from '/assets/success-staffs.png'
+import img1 from '../../assets/success-doctor.png'
+import img2 from '../../assets/success-patients.png'
+import img3 from '../../assets/success-review.png'
+import img4 from '../../assets/success-staffs.png'
 import CountUp from 'react-countup';
 
 const CountUp1 = () => {
